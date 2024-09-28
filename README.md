@@ -7,3 +7,10 @@ Unit: One of the following options: months, weeks, days, hours, minutes, or seco
 App Converts the input age into selected time unit.
 **OUTPUT:**
 It will display the person's Survival Duration in the selected time unit
+
+
+**Def_FUnction**
+I have created a function for Survival Duration Calculator
+**USER INPUT:**
+Age: Any positive number (float) representing a person's age in years (e.g., 25, 30.5).
+It will give output in months weeks days hours minutes seconds 
